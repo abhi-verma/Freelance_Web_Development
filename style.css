@@ -19,7 +19,7 @@ html, body {
 }
 
 .header h1 {
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .nav li a {
@@ -43,6 +43,10 @@ html, body {
   color: #fff;
   text-align: center;
   padding: 20px;
+}
+
+.banner li {
+  display: inline;
 }
 
 .cards {
